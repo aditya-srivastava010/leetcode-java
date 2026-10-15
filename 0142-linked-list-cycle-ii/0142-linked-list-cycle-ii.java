@@ -18,6 +18,6 @@ public class Solution {
             n1 = n1.next;
             n2 = n2.next;
         }
-        return n1;
+        return n2;
     }
 }
