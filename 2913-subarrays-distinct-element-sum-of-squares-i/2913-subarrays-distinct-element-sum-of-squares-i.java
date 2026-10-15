@@ -3,9 +3,7 @@ public int desti(List<Integer> arr, int i, int j) {
 HashMap<Integer, Integer> map = new HashMap<>();
     for (int k = i; k <= j; k++) {
         int num = arr.get(k);
-        if (!map.containsKey(num)) {
-            map.put(num, 1);
-        }
+        map.put(num, map.getOrDefault(num, 0) + 1);
     }
     int dis = map.size() * map.size();
     return dis;
