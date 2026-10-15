@@ -1,10 +1,13 @@
 class Solution {
 public int desti(List<Integer> arr, int i, int j) {
-HashSet<Integer> ans = new HashSet<>();
+HashMap<Integer, Integer> map = new HashMap<>();
     for (int k = i; k <= j; k++) {
-        ans.add(arr.get(k));
+        int num = arr.get(k);
+        if (!map.containsKey(num)) {
+            map.put(num, 1);
+        }
     }
-    int dis = ans.size() * ans.size();
+    int dis = map.size() * map.size();
     return dis;
 }
 public int sumCounts(List<Integer> nums) {
