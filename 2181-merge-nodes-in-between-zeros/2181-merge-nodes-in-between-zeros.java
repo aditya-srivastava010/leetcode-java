@@ -1,20 +1,20 @@
 class Solution {
     public ListNode mergeNodes(ListNode head) {
-        ListNode dummy = new ListNode(0);
-        ListNode tail = dummy;
         int sum = 0;
+        ListNode write = head;
+        ListNode read = head.next;
 
-        ListNode temp = head.next;          // skip the leading 0
-        while (temp != null) {
-            if (temp.val == 0) {
-                tail.next = new ListNode(sum);  // close the segment
-                tail = tail.next;
-                sum = 0;
-            } else {
-                sum += temp.val;
+        while (read != null) {
+            while (read.val != 0) {
+                sum += read.val;
+                read = read.next;
             }
-            temp = temp.next;
+            write.val = sum;
+            sum = 0;
+            write.next = read.next;
+            read = read.next;
+            write = write.next;
         }
-        return dummy.next;
+        return head;
     }
 }
