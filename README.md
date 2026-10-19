@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aditya-srivastava010/leetcode-java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditya-srivastava010/leetcode-java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
 |  |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/aditya-srivastava010/leetcode-java/tree/master/2181-merge-nodes-in-between-zeros) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aditya-srivastava010/leetcode-java/tree/master/2089-find-target-indices-after-sorting-array) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aditya-srivastava010/leetcode-java/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
