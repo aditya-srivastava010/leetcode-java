@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0002-add-two-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aditya-srivastava010/leetcode-java/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0086-partition-list) |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/aditya-srivastava010/leetcode-java/tree/master/2390-removing-stars-from-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
