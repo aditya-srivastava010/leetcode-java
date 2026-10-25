@@ -1,25 +1,42 @@
 class Solution {
     public Node copyRandomList(Node head) {
-        if (head == null) return null;
+        if (head == null) {
+            return null;
+        }
 
-        HashMap<Node, Node> map = new HashMap<>();
-
-        // Pass 1: copies banao
+        // Step 1: har node ke baad uski clone daalo
         Node temp = head;
         while (temp != null) {
-            map.put(temp, new Node(temp.val));
-            temp = temp.next;
+            Node clone = new Node(temp.val);
+            clone.next = temp.next;
+            temp.next = clone;
+            temp = clone.next;
         }
 
-        // Pass 2: next aur random jodo
+        // Step 2: random pointers set karo
         temp = head;
         while (temp != null) {
-            Node copy = map.get(temp);
-            copy.next = map.get(temp.next);       // temp.next null ho to map.get(null) = null
-            copy.random = map.get(temp.random);   
+            Node old = temp;
+            Node newn = temp.next;
+            if (old.random != null) {
+                newn.random = old.random.next;
+            }
+            temp = newn.next;
+        }
+
+        // Step 3: dono lists alag karo
+        temp = head;
+        Node ansHead = head.next;
+        while (temp != null) {
+            Node clone = temp.next;
+            Node old = temp;
+            old.next = clone.next;
+            if (clone.next != null) {
+                clone.next = clone.next.next;
+            }
             temp = temp.next;
         }
 
-        return map.get(head);
+        return ansHead;   
     }
 }
