@@ -1,32 +1,34 @@
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
-        List<Integer> critical = new ArrayList<>();
+        int first = -1, last = -1;
+        int mind = Integer.MAX_VALUE;
+
         ListNode prev = head;
         ListNode curr = head.next;
         int i = 1;
-        while (curr != null && curr.next != null) {
 
-            if (curr.val > prev.val && curr.val > curr.next.val) {
-                critical.add(i);
+        while (curr != null && curr.next != null) {
+            boolean isCritical =
+                (curr.val > prev.val && curr.val > curr.next.val) ||
+                (curr.val < prev.val && curr.val < curr.next.val);
+
+            if (isCritical) {
+                if (first == -1) {
+                    first = i;
+                } else {
+                    mind = Math.min(mind, i - last);
+                }
+                last = i;
             }
 
-            if (curr.val < prev.val && curr.val < curr.next.val) {
-                critical.add(i);
-           }
-            prev = prev.next;
+            prev = curr;
             curr = curr.next;
             i++;
         }
-        if (critical.size() < 2) {
+
+        if (first == last) { // zero or one critical point
             return new int[]{-1, -1};
         }
-
-        int mind = Integer.MAX_VALUE;
-
-        for (int j = 1; j < critical.size(); j++) {
-            mind = Math.min(mind, critical.get(j) - critical.get(j - 1));
-        }
-        int maxd = critical.get(critical.size() - 1) - critical.get(0);
-        return new int[]{mind, maxd};
+        return new int[]{mind, last - first};
     }
 }
