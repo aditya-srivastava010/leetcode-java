@@ -13,7 +13,7 @@ class Solution {
             if (curr.val < prev.val && curr.val < curr.next.val) {
                 critical.add(i);
            }
-            prev = curr;
+            prev = prev.next;
             curr = curr.next;
             i++;
         }
