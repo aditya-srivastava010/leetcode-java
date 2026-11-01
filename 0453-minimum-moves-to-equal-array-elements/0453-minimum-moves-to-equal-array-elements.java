@@ -6,11 +6,11 @@ class Solution {
                 min=i;
             }
         }
+        Arrays.sort(nums);
         long ans=0;
         for(int x:nums){
             ans+=x-min;
         }
         return (int) ans;
-
     }
 }
