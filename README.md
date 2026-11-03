@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/aditya-srivastava010/leetcode-java/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aditya-srivastava010/leetcode-java/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya-srivastava010/leetcode-java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0739-daily-temperatures) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya-srivastava010/leetcode-java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditya-srivastava010/leetcode-java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya-srivastava010/leetcode-java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
