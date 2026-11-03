@@ -2,7 +2,10 @@ class Solution {
     public int minMoves(int[] nums) {
         Arrays.sort(nums);
         int ans=0;
-        int max=nums[nums.length-1];
+        int max=Integer.MIN_VALUE;
+        for(int x:nums){
+            max=Math.max(x,max);
+        }
         for(int i:nums){
             ans+=(max-i);
         }
