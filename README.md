@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1143-longest-common-subsequence](https://github.com/aditya-srivastava010/leetcode-java/tree/master/1143-longest-common-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/aditya-srivastava010/leetcode-java/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -116,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/aditya-srivastava010/leetcode-java/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/aditya-srivastava010/leetcode-java/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
