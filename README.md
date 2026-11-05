@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya-srivastava010/leetcode-java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/aditya-srivastava010/leetcode-java/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0739-daily-temperatures](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0739-daily-temperatures) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya-srivastava010/leetcode-java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya-srivastava010/leetcode-java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditya-srivastava010/leetcode-java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya-srivastava010/leetcode-java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -77,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya-srivastava010/leetcode-java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya-srivastava010/leetcode-java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya-srivastava010/leetcode-java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya-srivastava010/leetcode-java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
