@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/aditya-srivastava010/leetcode-java/tree/master/2390-removing-stars-from-a-string) |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/aditya-srivastava010/leetcode-java/tree/master/1143-longest-common-subsequence) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
