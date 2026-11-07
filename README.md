@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya-srivastava010/leetcode-java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/aditya-srivastava010/leetcode-java/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0143-reorder-list) |
 | [0739-daily-temperatures](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/aditya-srivastava010/leetcode-java/tree/master/2390-removing-stars-from-a-string) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/aditya-srivastava010/leetcode-java/tree/master/0143-reorder-list) |
 ## Depth-First Search
 |  |
 | ------- |
